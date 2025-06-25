@@ -1,4 +1,4 @@
-[Homework_JS 1](https://Terracrit.github.io/homework_JS/homework_2/)<br>  
+[Homework_JS 1](https://Terracrit.github.io/homework_2/homework_2/)<br>  
 
 [Homework 2](https://Terracrit.github.io/homework/genius-homework-2/)<br> 
 
